@@ -1,0 +1,31 @@
+.cart {
+  padding: 1rem;
+  height: 100vh;
+}
+
+.cart h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.cart-item {
+  border-bottom: 1px solid #ccc;
+  padding: 1rem 0;
+}
+
+.item-info {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.cart-buttons {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cart-buttons button {
+  padding: 0.3rem 0.7rem;
+  font-size: 1rem;
+  cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.app-div {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.plant-panel {
+  width: 80%;
+  padding: 1rem;
+}
+
+.cart-panel {
+  width: 20%;
+  padding: 1rem;
+  border-left: 1px solid #ccc;
+}
